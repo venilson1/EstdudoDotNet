@@ -1,0 +1,13 @@
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.exe
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.deps.json
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.runtimeconfig.json
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.runtimeconfig.dev.json
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.dll
+C:\Users\venilson\source\repos\Abstration\Abstration\bin\Debug\netcoreapp3.1\Abstration.pdb
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.AssemblyInfoInputs.cache
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.AssemblyInfo.cs
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.dll
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.pdb
+C:\Users\venilson\source\repos\Abstration\Abstration\obj\Debug\netcoreapp3.1\Abstration.genruntimeconfig.cache

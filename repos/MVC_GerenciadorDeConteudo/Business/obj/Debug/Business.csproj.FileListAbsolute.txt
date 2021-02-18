@@ -1,0 +1,10 @@
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.pdb
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\bin\Debug\Database.pdb
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.pdb
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Business\bin\Debug\MySql.Data.dll

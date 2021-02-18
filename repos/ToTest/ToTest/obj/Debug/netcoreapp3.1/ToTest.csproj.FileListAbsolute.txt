@@ -1,0 +1,13 @@
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.exe
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.deps.json
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.runtimeconfig.json
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.runtimeconfig.dev.json
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.dll
+C:\Users\venilson\source\repos\ToTest\ToTest\bin\Debug\netcoreapp3.1\ToTest.pdb
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.AssemblyInfoInputs.cache
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.AssemblyInfo.cs
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.dll
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.pdb
+C:\Users\venilson\source\repos\ToTest\ToTest\obj\Debug\netcoreapp3.1\ToTest.genruntimeconfig.cache

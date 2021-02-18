@@ -1,0 +1,28 @@
+ORM(permite que Desenvolvedores de .NET trabalhem com bd usando objetos .NET)
+
+3 linhas principais de utilização
+
+DATABASE FIRST => 
+ criar BD antes da aplicação.
+
+MODEL FIRST =>
+  Gerar primeiro um modelo e partir gerar uma base de dados. 
+
+CODE FIRST => 
+ criar primeiro as suas classe de entidade e deixa para o Entity a responsabilidade de criar o banco de dados.
+
+DATA DONNATIONS => trar
+
+Startup.CS => 
+  É responsável por ser o ponto inicial do projeto dentro dele possuem 2 métodos:
+    ConfigureServices => È reponsavel por registrar as classes ao container de injeção de dependencia.
+    Configure => são esecificadas o Middlewares que serão utilizados
+
+
+
+
+
+===================== API ==================
+
+REST => 
+SWAGGER =>

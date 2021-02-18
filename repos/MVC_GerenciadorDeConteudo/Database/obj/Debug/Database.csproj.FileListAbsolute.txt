@@ -1,0 +1,8 @@
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\bin\Debug\Database.pdb
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.pdb
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\bin\Debug\MySql.Data.dll
+C:\Users\venilson\source\repos\MVC_GerenciadorDeConteudo\Database\obj\Debug\Database.csproj.CopyComplete

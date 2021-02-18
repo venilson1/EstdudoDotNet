@@ -1,0 +1,12 @@
+C:\Users\venilson\source\repos\Crudzin\Crudzin\bin\Debug\Crudzin.exe.config
+C:\Users\venilson\source\repos\Crudzin\Crudzin\bin\Debug\Crudzin.exe
+C:\Users\venilson\source\repos\Crudzin\Crudzin\bin\Debug\Crudzin.pdb
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.Properties.Resources.resources
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.csproj.GenerateResource.cache
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.exe
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.pdb
+C:\Users\venilson\source\repos\Crudzin\Crudzin\bin\Debug\MySql.Data.dll
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.Form1.resources
+C:\Users\venilson\source\repos\Crudzin\Crudzin\obj\Debug\Crudzin.csproj.CopyComplete
